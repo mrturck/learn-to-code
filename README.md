@@ -18,7 +18,7 @@ Each mini-lesson of this guide will focus on a different topic. There will be a 
 # Table of contents
 
 Part 1: The Basics
-1. Shell commands and how to use them
+1. [Shell commands and how to use them](https://github.com/mrturck/learn-to-code/blob/master/1-Shell-commands-and-how-to-use-them.md)
 2. Set up a code editor
 3. Rapid fire HTML and CSS
 4. 60-second intro to Javascript
