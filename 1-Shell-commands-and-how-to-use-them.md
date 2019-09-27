@@ -47,7 +47,7 @@ Great! Now you are in the documents folder. How do you create a new document or 
 
 ## `touch` - Create a file
 
-Think of this command as being as if you were an all-powerful touching something into existence. That's basically what you are doing. 
+Think of this command as if you were an all-powerful being touching something into existence. That's basically what you are doing. 
 
 Anyway, using `touch` is easy; the formula is `touch <filename.extension>`
 
